@@ -104,7 +104,7 @@ export const projects = [
 
   {
     slug: "project-2",
-    title: "RevoU Coding Camp Project",
+    title: "RevoU Software Engineering Project",
 
     description:
       "RevoU merupakan platform edukasi daring asal Indonesia yang menghadirkan bootcamp dan kursus berbasis kebutuhan industri di bidang keterampilan digital, seperti Digital Marketing, Data Analytics, Software Engineering, dan lainnya, guna mempersiapkan individu untuk berkarier di era ekonomi digital.",
@@ -276,9 +276,62 @@ export const projects = [
       "React.js",
     ],
   },
+
+  {
+    slug: "project-6",
+    title: "UI/UX Aplikasi Marketplace Android",
+
+    description:
+      "Platform mobile yang dirancang untuk memenuhi dua kebutuhan utama secara bersamaan, yaitu sebagai platform jual beli alat sekaligus sebagai aplikasi kendali dan pemantauan perangkat IoT yang terpasang di lokasi tambak. Dengan menggabungkan kedua fungsi dalam satu aplikasi, pengguna dapat melakukan pembelian perangkat sekaligus mengoperasikannya langsung.",
+
+    role: "Frontend Engineer",
+
+    category:
+      "Intern Project at PT. Venambak Kail Dipantara",
+
+    responsibilities: [
+      "Melakukan re-design tampilan aplikasi mobile Venambak untuk platform android guna meningkatkan konsistensi visual dan kemudahan pengguna.",
+      "Merancang user flow dan wireframe untuk fitur marketplace, mulai dari beranda produk, pencarian produk, spesifikasi, hingga proses checkout.",
+      "Merancang UI/UX untuk fitur kontrol device, memastikan pengguna dapat mengoperasikan perangkat IoT secara intuitif.",
+      "Melakukan usability testing terhadap prototype untuk memvalidasi alur navigasi sebelum tahap implementasi.",
+      "Berkolaborasi dengan tim developer untuk memastikan hasil desain dapat diimplementasikan sesuai dengan batasan teknis platform Android.",
+    ],
+
+    collaboration: [
+      "Tim Engineer",
+    ],
+
+    prototype: {
+      images: [
+        "/projects/project-6/1.png",
+        "/projects/project-6/2.png",
+        "/projects/project-6/3.png",
+        "/projects/project-6/4.png",
+        "/projects/project-6/5.png",
+        "/projects/project-6/6.png",
+        "/projects/project-6/7.png",
+        "/projects/project-6/8.png",
+      ],
+      link: "https://www.figma.com/proto/OyyAspBSvFDYtI3YdFOe4T/marketplace?node-id=1-57&p=f&t=LPPlM0BxH8TXSTX5-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A57",
+    },
+
+    image: "/projects/project-6/cover.png",
+
+    technologies: [
+      "Next.js",
+      "TypeScript",
+      "React.js",
+    ],
+  },
+  
 ];
 
 export const certifications = [
+  {
+    title: "Intro to Data Analytics",
+    organization: "Revou",
+    date: "Sep 2026",
+  },
   {
     title: "Program Pemagangan Lulusan Perguruan Tinggi Maganghub",
     organization: "Kemnaker",

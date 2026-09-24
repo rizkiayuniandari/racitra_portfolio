@@ -35,7 +35,7 @@ export default function Hero() {
               className="group flex items-center gap-2 rounded-full bg-slate-800 px-6 py-3 text-sm font-semibold text-white transition hover:-translate-y-1"
             >
               Proyek
-              <ArrowUpRight
+              <ArrowDown
                 size={17}
                 className="transition group-hover:rotate-45"
               />

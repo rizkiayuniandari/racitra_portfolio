@@ -263,7 +263,7 @@ export default async function ProjectPage({
                     PROTOTYPE IMAGES
                 ========================= */}
 
-                {slug === "project-1" ? (
+                {slug === "project-1" || slug === "project-6" ? (
 
                   /* Menggabungkan seluruh gambar menjadi 1 Grid agar menyatu tanpa jeda */
                   <div className="mt-8 grid grid-cols-2 gap-5 sm:grid-cols-3 md:grid-cols-5">
