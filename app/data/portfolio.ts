@@ -109,7 +109,7 @@ export const projects = [
     description:
       "RevoU merupakan platform edukasi daring asal Indonesia yang menghadirkan bootcamp dan kursus berbasis kebutuhan industri di bidang keterampilan digital, seperti Digital Marketing, Data Analytics, Software Engineering, dan lainnya, guna mempersiapkan individu untuk berkarier di era ekonomi digital.",
 
-    role: "Participants",
+    role: "Peserta",
 
     category: "Coding Camp Project",
 
@@ -316,6 +316,41 @@ export const projects = [
     },
 
     image: "/projects/project-6/cover.png",
+
+    technologies: [
+      "Next.js",
+      "TypeScript",
+      "React.js",
+    ],
+  },
+
+    {
+    slug: "project-7",
+    title: "Revou Data Analytics Mini Course",
+
+    description:
+      "Program RevoU Mini Course Data Analytics merupakan pembelajaran intensif selama satu minggu yang dirancang untuk memberikan pemahaman dasar hingga penerapan Data Analytics dalam dunia bisnis. Peserta akan mempelajari konsep dan tools analisis data, serta mendapatkan wawasan mengenai proses job seeking, penyusunan karir, dan dunia kerja. ",
+
+    role: "Peserta",
+
+    category:
+      "Mini Course Project",
+
+    responsibilities: [
+      "Mengikuti 5 hari mini course",
+      "Melakukan Certification Test",
+      "Mengerjakan case study",
+    ],
+
+    collaboration: [
+    ],
+
+    prototype: {
+      images: [],
+      link: "#",
+    },
+
+    image: "/projects/project-7/image.png",
 
     technologies: [
       "Next.js",
