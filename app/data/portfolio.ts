@@ -1,18 +1,18 @@
 export const personalInfo = {
-  name: "Msy Rizkia Yuniandari, S.Kom",
-  shortName: "Rizkia",
-  role: "Front-End Developer",
+  name: "Raden Ayu Citra Dewi, S.Tr.",
+  shortName: "Ayu",
+  role: "Engineer",
   tagline: "Front-End Developer & UI/UX Enthusiast",
-  email: "msyrizkiayuniandari1@gmail.com",
-  phone: "+62 82248472562",
+  email: "radenayucitradewi@gmail.com",
+  phone: "+62 89508545174",
   location: "Palembang, South Sumatera",
   linkedin:
-    "https://www.linkedin.com/in/msy-rizkia-yuniandari-a01938295",
+    "https://www.linkedin.com/in/racitradewi",
   cvLink:"https://drive.google.com/file/d/1j3DqVwnSPXD8wTEwT20M_KgBERuBLLzS/view?usp=drive_link",
 };
 
 export const about = {
-  greeting: "Hi, I'm Rizkia!",
+  greeting: "Hi, I'm Ayu!",
   description:
     "Saya lulusan S1 Teknik Informatika dari Universitas Sriwijaya dengan minat yang kuat pada Front-End Development, Web Development, dan UI/UX Design. Saya memiliki pengalaman merancang dan mengembangkan aplikasi web responsif menggunakan Next.js, termasuk mengintegrasikannya dengan REST API, MQTT, dan WebSocket. Memiliki kemampuan analisis yang baik, teliti, problem-solving serta mampu bekerja secara terstruktur baik secara individu maupun tim. Saya selalu antusias mempelajari teknologi baru dan siap memberikan kontribusi terbaik di setiap proyek yang saya jalani.",
 };
